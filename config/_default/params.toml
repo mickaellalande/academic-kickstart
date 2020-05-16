@@ -82,22 +82,22 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mickael.lalande@univ-grenoble-alpes.fr"
-phone = "888 888 88 88"
+# phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institut des Géosciences de l'Environnement (IGE), 54 Rue Molière", city = "Saint-Martin-d'Hères", region = "", postcode = "38400", country = "France", country_code = "FR"}
+address = {street = "Institut des Géosciences de l'Environnement (IGE)<br> 54 Rue Molière", city = "Saint-Martin-d'Hères", region = "", postcode = "38400", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "45.193407", longitude = "5.757778"}
 
 # Directions for visitors to locate you.
-directions = "Glaciology building, Office 120.3 on Floor 1"
+directions = "Glaciology building -- Office 120.3 on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday from 9:00 to 17:00"]
+# office_hours = ["Monday to Friday from 9:00 to 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -105,7 +105,7 @@ office_hours = ["Monday to Friday from 9:00 to 17:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/LalandeMickael"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/LalandeMickael"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -140,7 +140,7 @@ address_format = "fr-fr"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "c", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -263,7 +263,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  engine = 2
   api_key = ""
   zoom = 15
 
