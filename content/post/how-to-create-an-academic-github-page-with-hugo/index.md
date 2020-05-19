@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-I guess you are wondering how to make an academic website on your GitHub with the address *.github.io*. There are, of course, the solutions proposed directly by [GitHub page](https://pages.github.com/), however, it looks a bit *"old school"* in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io/)[^1] that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.
+I guess you are wondering how to make an academic website on your GitHub with the address *.github.io*. There are, of course, the solutions proposed directly by [GitHub page](https://pages.github.com/), however, it looks a bit *"old school"* in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the [Academic theme](https://sourcethemes.com/academic/)[^1] for [Hugo](https://gohugo.io/)[^2] that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.
 
 {{% alert note %}}
 You need to be a bit familiar with the basics of GitHub, but you don't need any knowledge of html/css.
@@ -105,4 +105,6 @@ you will be able to have an instant preview in your browser before uploading it 
 
 
 
-[^1]: Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z
+[^1]: Source Themes Academic 4.8.0
+[^2]: Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z
+
