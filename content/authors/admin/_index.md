@@ -92,6 +92,7 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 I am currently working on *[Modeling climate trends and variability in the Himalaya to understand cryosphere changes](https://www.theses.fr/s226411)* at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France). My supervisors are Martin Ménégoz and Gerhard Krinner. We are in close collaboration with [IPSL](https://www.ipsl.fr/) in Paris using the [LMDZ](https://lmdz.lmd.jussieu.fr/) model.
