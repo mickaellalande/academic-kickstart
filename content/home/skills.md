@@ -27,16 +27,16 @@ subtitle = ""
   description = "70%"
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "GitHub"
-  description = "50%"
-
-[[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
   description = "60%"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  description = "50%"
 
 [[feature]]
   icon = "globe-europe"
@@ -49,23 +49,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Fortran"
   description = "10%"
-
-[[feature]]
-  icon = "mendeley"
-  icon_pack = "fab"
-  name = "Mendeley"
-  # description = "60%"
-
-[[feature]]
-  icon = "slack"
-  icon_pack = "fab"
-  name = "Slack"
-  # description = "60%"
-
-
-
-
-
 
 
 

@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD"
+  company = "Institute of Environmental Geosciences"
+  company_url = "http://www.ige-grenoble.fr/"
+  location = "Grenoble, France"
+  date_start = "2019-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """**Modeling climate trends and variability in the Himalaya to understand cryosphere changes** (supervised by <a href="http://pp.ige-grenoble.fr/pageperso/menegozm/" target="_blanck">Martin Ménégoz</a> and <a href="http://www.ige-grenoble.fr/-gerhard-krinner-" target="_blanck">Gerhard Krinner</a>)"""
+
+[[experience]]
+  title = "MSc Research Internship"
+  company = "MEOM Research Group IGE (Institute of Environmental Geosciences)"
+  company_url = "https://meom-group.github.io/"
+  location = "Grenoble, France"
+  date_start = "2019-02-04"
+  date_end = "2019-07-26"
+  description = """**Identification and filtering of oceanic chaos by Machine Learning** (supervised by <a href="http://pp.ige-grenoble.fr/pageperso/pendufft/" target="_blanck">Thierry Penduff</a> and <a href="https://redouanelg.github.io/aboutMe/" target="_blanck">Redouane Lguensat</a>)
+
+  <a href="files/Rapport_de_stage_M2_LALANDE.pdf" target="_blanck">Download report</a> | <a href="https://github.com/mickaellalande/UNetOceanFilter" target="_blanck">Code</a>
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "MSc Research Internship"
+  company = "GLACE Research Group IGE (Institute of Environmental Geosciences)"
+  company_url = "http://www.ige-grenoble.fr/-glace-"
+  location = "Grenoble, France"
+  date_start = "2018-04-30"
+  date_end = "2018-07-27"
+  description = """**The impact of Arctic sea ice variability on the northern latitude in the hydrological cycle in models and reanalyses** (supervised by <a href="http://pp.ige-grenoble.fr/pageperso/zolinao/" target="_blanck">Olga Zolina</a>, <a href="http://www.theses.fr/241997070" target="_blanck">Maria SANTOLARIA-OTIN</a> and <a href="https://www.researchgate.net/profile/Ambroise_Dufour" target="_blanck">Ambroise DUFOUR</a>)
+
+  <a href="files/LALANDE_M1_ACSC_Internship_report.pdf" target="_blanck">Download report</a>
+  """
 
 +++
