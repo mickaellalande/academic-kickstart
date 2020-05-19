@@ -3,7 +3,7 @@
 
 title: "How to Create an Academic GitHub Page With Hugo?"
 subtitle: ""
-summary: ""
+summary: " "
 authors: []
 tags: ["Website", "Academic themes", "Hugo", "GitHub Pages"]
 categories: ["Tutorials"]
