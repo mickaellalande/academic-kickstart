@@ -35,7 +35,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["PhD"]
 ---
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

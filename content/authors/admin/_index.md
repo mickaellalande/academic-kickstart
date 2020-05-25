@@ -24,7 +24,7 @@ interests:
 - Mountainous areas
 - Models and observations
 - Himalaya
-- Snow cover
+- Cryosphere
 
 education:
   courses:
@@ -50,6 +50,10 @@ social:
     icon_pack: fas
     link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/mickaellalande
+
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LalandeMickael
@@ -66,6 +70,10 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Mickael_Lalande
 
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/mickaellalande/
+
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5014-5249
@@ -74,9 +82,7 @@ social:
     icon_pack: ai
     link: https://www.mendeley.com/profiles/mickal-lalande2/
 
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mickaellalande
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -95,4 +101,4 @@ user_groups:
 
 ---
 
-I am currently working on *[Modeling climate trends and variability in the Himalaya to understand cryosphere changes](https://www.theses.fr/s226411)* at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France). My supervisors are Martin Ménégoz and Gerhard Krinner. We are in close collaboration with [IPSL](https://www.ipsl.fr/) in Paris using the [LMDZ](https://lmdz.lmd.jussieu.fr/) model.
+I am currently working on *[Modeling climate trends and variability in the Himalaya to understand cryosphere changes](https://www.theses.fr/s226411)* at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France). My supervisors are [Martin Ménégoz](http://martinmenegoz.neowordpress.fr/) and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-). We are in close collaboration with [IPSL](https://www.ipsl.fr/) in Paris using the [LMDZ](https://lmdz.lmd.jussieu.fr/) model.

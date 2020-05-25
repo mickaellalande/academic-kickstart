@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["PhD"]
 ---
+
+Quick presentation of my PhD
