@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PEDALONS: Zoom and Regional Climates"
-event:
+event: "PEDALONS: Zoom and Regional Climates"
 event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2020-01-13"
 location: LMD
 address:
@@ -11,7 +11,9 @@ address:
   region:
   postcode:
   country: France
-summary:
+summary: "Modélisation de la variabilité et des tendances climatiques en
+Himalaya pour une meilleure compréhension de leurs impacts sur la
+cryosphère"
 abstract:
 
 # Talk start and end times.

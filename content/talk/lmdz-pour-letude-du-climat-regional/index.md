@@ -4,14 +4,15 @@
 title: "LMDZ for Regional Climate Studies"
 event:
 event_url:
-location: "GoToMeeting"
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: "LMDZ for regional climate study :
+“cold bias” in High Mountain Asia (HMA)"
 abstract:
 
 # Talk start and end times.
