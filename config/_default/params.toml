@@ -215,7 +215,7 @@ plugins_js  = []
   engine = 1
 
   # Which page types are commentable?
-  commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
+  commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
