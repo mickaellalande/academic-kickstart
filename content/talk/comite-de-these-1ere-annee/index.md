@@ -23,8 +23,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-07T09:30:30+02:00
 
-authors: []
+authors: ["admin"]
 tags: ["Himalaya", "LMDZ", "Comité de Thèse", "CMIP6"]
+
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,8 +49,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code:
-url_pdf:
+url_code: "https://github.com/mickaellalande/PhD"
+url_pdf: "talk/comite-de-these-1ere-annee/comite_de_these_1ere_annee_LALANDE_v2.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -66,5 +67,9 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: ["PhD"]
 ---
+
+- [Résumé et prospectives](comite_de_these_1ere_annee_LALANDE_v2.pdf)
+
+- Présentation :
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
