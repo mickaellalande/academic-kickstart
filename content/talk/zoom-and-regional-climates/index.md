@@ -26,7 +26,7 @@ all_day: false
 publishDate: 2020-05-19T17:48:38+02:00
 
 authors: []
-tags: ["PEDALONS", "Zoom", "LMDZ", "Himalaya"]
+tags: ["PEDALONS", "LMDZ", "Himalaya"]
 
 # Is this a featured talk? (true/false)
 featured: false

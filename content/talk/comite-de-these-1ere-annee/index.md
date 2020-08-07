@@ -11,7 +11,7 @@ address:
   region:
   postcode: "38400"
   country:
-summary: "Modélisation de la variabilité et des tendances climatiques en Himalaya pour une meilleure compréhension de leurs impacts sur la cryosphère"
+summary: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
 abstract:
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-08-07T09:30:30+02:00
 
 authors: ["admin"]
-tags: ["Himalaya", "LMDZ", "Comité de Thèse", "CMIP6"]
+tags: ["HMA", "LMDZ", "Comité de Thèse", "CMIP6", "Cryosphere"]
 
 
 # Is this a featured talk? (true/false)
