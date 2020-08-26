@@ -4,9 +4,9 @@
 title: "Comite de Thèse - 1ère année"
 event: "Comite de Thèse - 1ère année"
 event_url:
-location: "Institut des Géosciences de l'Environnement (IGE) - Salle Lliboutry"
+location: "Institut des Géosciences de l'Environnement (IGE) - Salle Mont Blanc (OSUG-B)"
 address:
-  street: "54 Rue Molière"
+  street: "70 rue de la physique"
   city: "Saint-Martin-d'Hères"
   region:
   postcode: "38400"
