@@ -12,7 +12,7 @@ address:
   postcode: "38400"
   country:
 summary: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
-abstract:
+abstract: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -47,8 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
+url_slides: "talk/comite-de-these-1ere-annee/comite_de_these_1ere_annee_LALANDE_slides.pdf"
 url_code: "https://github.com/mickaellalande/PhD"
 url_pdf: "talk/comite-de-these-1ere-annee/comite_de_these_1ere_annee_LALANDE_v2.pdf"
 url_video:
@@ -69,7 +68,7 @@ projects: ["PhD"]
 ---
 
 - [Résumé et prospectives](comite_de_these_1ere_annee_LALANDE_v2.pdf)
-
+- [Accès à la présentation](https://docs.google.com/presentation/d/1oNPcQq0OllJfQf1YD9ObKmF9-CGhQGgWpSPSsmh-usM/edit?usp=sharing) (commentaires possibles)
 - Présentation :
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
