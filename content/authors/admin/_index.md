@@ -70,10 +70,6 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Mickael_Lalande
 
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/mickaellalande/
-
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5014-5249
@@ -81,6 +77,14 @@ social:
   - icon: mendeley
     icon_pack: ai
     link: https://www.mendeley.com/profiles/mickal-lalande2/
+
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/mickaellalande/
+
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q
 
 
 

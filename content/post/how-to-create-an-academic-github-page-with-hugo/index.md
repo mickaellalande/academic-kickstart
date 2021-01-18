@@ -4,7 +4,7 @@
 title: "How to Create an Academic GitHub Page With Hugo?"
 subtitle: ""
 summary: " "
-authors: []
+authors: ["admin"]
 tags: ["Website"]
 categories: ["Tutorials"]
 date: 2020-05-19T11:38:58+02:00
@@ -107,4 +107,3 @@ you will be able to have an instant preview in your browser before uploading it 
 
 [^1]: Source Themes Academic 4.8.0
 [^2]: Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z
-
