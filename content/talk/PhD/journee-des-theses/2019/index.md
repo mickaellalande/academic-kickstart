@@ -1,30 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Journée des Thèses"
-event: "Journée des Thèses"
+title: "Journée des Thèses 2019"
+event:
 event_url:
-location: "Institut des Géosciences de l'Environnement (IGE)"
+location: "Lliboutry room (Glaciologie building)"
 address:
-  street:
-  city:
+  street: "54 Rue Molière"
+  city: "Saint-Martin-d'Hères"
   region:
-  postcode:
-  country:
-summary: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
-abstract: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
+  postcode: "38400"
+  country: "France"
+summary:
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-08T15:00:00+01:00
-date_end: 2020-12-08T15:15:00+01:00
+date: 2019-11-20T09:00:00+02:00
+date_end: 2019-11-20T16:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-07T17:25:52+01:00
+publishDate: 2020-05-19T18:25:37+02:00
 
-authors: ["admin"]
-tags: ["HMA", "LMDZ", "Journée des thèses", "CMIP6", "Cryosphere"]
+authors: []
+tags: ["Journée des thèses", "Himalaya"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -35,7 +35,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/comite-de-these-1ere-annee/Journee_des_theses_IGE_2020.pdf"
+url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "talk/thesis-day/journee_des_theses_2019_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -67,4 +67,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQRjIiXlFPr8OopMkcyXm2-tw_4jRrDNIXCbgY-nRoUmZWJxfHTk2pkJDlewP2QM2eBIsJkZkRN6Ym/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Quick presentation of my PhD

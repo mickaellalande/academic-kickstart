@@ -1,36 +1,36 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Thesis Day"
+title: "EGU2021 CMIP6 HMA"
 event:
 event_url:
-location: "Lliboutry room (Glaciologie building)"
+location:
 address:
-  street: "54 Rue Molière"
-  city: "Saint-Martin-d'Hères"
+  street:
+  city:
   region:
-  postcode: "38400"
-  country: "France"
+  postcode:
+  country:
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-20T09:00:00+02:00
-date_end: 2019-11-20T16:10:00+02:00
+date: 2021-04-01T15:09:23+02:00
+date_end: 2021-04-01T15:09:23+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-05-19T18:25:37+02:00
+publishDate: 2021-04-01T15:09:23+02:00
 
 authors: []
-tags: ["Journée des thèses", "Himalaya"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/thesis-day/journee_des_theses_2019_LALANDE.pdf"
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).
@@ -64,7 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["PhD"]
+projects: []
 ---
-
-Quick presentation of my PhD
