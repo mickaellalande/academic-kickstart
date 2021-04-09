@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/PhD/chantier-HMA/CMIP6-HMA-paper/20210329_reunion-chantier-himalaya_CMIP6-HMA-paper_LALANDE.pdf"
+url_slides: "talk/phd/chantier-hma/cmip6-hma-paper/20210329_reunion-chantier-himalaya_CMIP6-HMA-paper_LALANDE.pdf"
 
 url_code:
 url_pdf:

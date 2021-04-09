@@ -51,7 +51,7 @@ image:
 url_slides:
 
 url_code: "https://github.com/mickaellalande/SCA_parameterization"
-url_pdf: "talk/phd/chantier-hma/cmip6-hma-paper/20210329_reunion-chantier-himalaya_CMIP6-HMA-paper_LALANDE.pdf"
+url_pdf: "talk/phd/lmdz/pedalons/20210412_neige/20210412_snc-param_PEDALONS-neige_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
