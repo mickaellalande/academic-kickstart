@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LMDZ for Regional Climate Studies"
-event:
-event_url:
+title: "Reunion Utilisateurs LMDZ"
+event: "Reunion Utilisateurs LMDZ"
+event_url: "https://lmdz.lmd.jussieu.fr/news/reunion-utilisateurs-lmdz"
 location:
 address:
   street:
@@ -11,21 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: "LMDZ for regional climate study :
-“cold bias” in High Mountain Asia (HMA)"
+summary: "Bias Analysis in the High Mountains of Asia (HMA)"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-15T09:30:00+02:00
-date_end: 2020-05-15T13:00:00+02:00
+date: 2020-06-05T09:30:00+02:00
+date_end: 2020-06-05T12:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-05-19T18:28:51+02:00
+publishDate: 2020-06-04T14:16:09+02:00
 
 authors: []
-tags: ["LMDZ", "Himalaya"]
+tags: ["Himalaya", LMDZ"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -50,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/PhD/LMDZ/lmdz-pour-letude-du-climat-regional/Réunion_ LMDZ pour l'étude du climat régional - Mickaël Lalande - Himalaya.pdf"
+url_pdf: "talk/phd/lmdz/reunion-utilisateurs-lmdz/20200605_reunion_utilisateur_LMDZ_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -68,4 +67,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIUjTMgnZdx-uGTJNGVGiiabu8b2AejUWLn_Ub05O3f0RDPWLp30S4yi5_6Q1Mqaq3y0aPXDAm8D3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHdY_eBNj2N4LVoaeEm87s_OBZ4gG7Y0ejHYTNQWgJQevWNfjYJaV354gs_hh9ueYR0Xt2aKhbNh7c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

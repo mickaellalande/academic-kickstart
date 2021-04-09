@@ -1,32 +1,31 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PEDALONS: Zoom and Regional Climates"
-event: "PEDALONS: Zoom and Regional Climates"
-event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2020-01-13"
-location: LMD
+title: "LMDZ for Regional Climate Studies"
+event:
+event_url:
+location:
 address:
-  street: 4, place Jussieu (Tour 45-55, 2ème étage, salle 201-A)
-  city: Paris
+  street:
+  city:
   region:
   postcode:
-  country: France
-summary: "Modélisation de la variabilité et des tendances climatiques en
-Himalaya pour une meilleure compréhension de leurs impacts sur la
-cryosphère"
+  country:
+summary: "LMDZ for regional climate study :
+“cold bias” in High Mountain Asia (HMA)"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-13T09:30:00+02:00
-date_end: 2020-01-13T12:30:00+02:00
+date: 2020-05-15T09:30:00+02:00
+date_end: 2020-05-15T13:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-05-19T17:48:38+02:00
+publishDate: 2020-05-19T18:28:51+02:00
 
-authors: ["admin"]
-tags: ["PEDALONS", "LMDZ", "Himalaya"]
+authors: []
+tags: ["LMDZ", "Himalaya"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,7 +50,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/PhD/LMDZ/PEDALONS/20200113_zoom/20200113_PEDALONS_zoom_LALANDE.pdf"
+url_pdf: "talk/phd/lmdz/lmdz-pour-letude-du-climat-regional/Réunion_ LMDZ pour l'étude du climat régional - Mickaël Lalande - Himalaya.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -69,4 +68,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIUjTMgnZdx-uGTJNGVGiiabu8b2AejUWLn_Ub05O3f0RDPWLp30S4yi5_6Q1Mqaq3y0aPXDAm8D3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -1,32 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PEDALONS: neige"
-event: "PEDALONS: neige"
-event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2021-04-12-pedalons"
-location: LMD
+title: "Journée des Thèses 2019"
+event:
+event_url:
+location: "Lliboutry room (Glaciologie building)"
 address:
-  street:
-  city:
+  street: "54 Rue Molière"
+  city: "Saint-Martin-d'Hères"
   region:
-  postcode:
-  country:
-summary: "Paramétrisation de la couverture de neige
-prenant en compte la variation de topographie sous-maille dans LMDZ/Orchidée
-"
+  postcode: "38400"
+  country: "France"
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-12T09:30:00+02:00
-date_end: 2021-04-12T12:00:00+02:00
+date: 2019-11-20T09:00:00+02:00
+date_end: 2019-11-20T16:10:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-09T15:27:00+02:00
+publishDate: 2020-05-19T18:25:37+02:00
 
-authors: ["admin"]
-tags: ["PEDALONS", "LMDZ", "Orchidée", "HMA", "Snow cover parameterization", "Neige", "Snow cover"]
+authors: []
+tags: ["Journée des thèses", "Himalaya"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -37,7 +35,7 @@ featured: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,8 +48,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code: "https://github.com/mickaellalande/SCA_parameterization"
-url_pdf: "talk/PhD/LMDZ/PEDALONS/20210412_neige/20210412_snc-param_PEDALONS-neige_LALANDE.pdf"
+url_code:
+url_pdf: "talk/phd/journee-des-theses/2019/journee_des_theses_2019_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -69,4 +67,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbMQRfz0qD8uxLPvOA2Y9VTxuOHtDY1GiDRWwsr5lsEYREQ6HvjD0euhtrRTa_UoRb0F1JnhizCWdR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Quick presentation of my PhD

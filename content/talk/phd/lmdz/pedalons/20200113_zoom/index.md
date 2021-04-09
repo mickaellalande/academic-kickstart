@@ -1,34 +1,35 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EGU2021: Climate change in the High Mountain Asia simulated with CMIP6 models"
-event: "EGU General Assembly 2021"
-event_url: "https://meetingorganizer.copernicus.org/EGU21/session/39537"
-location: "vEGU21: Gather Online | 19–30 April 2021"
+title: "PEDALONS: Zoom and Regional Climates"
+event: "PEDALONS: Zoom and Regional Climates"
+event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2020-01-13"
+location: LMD
 address:
-  street:
-  city:
+  street: 4, place Jussieu (Tour 45-55, 2ème étage, salle 201-A)
+  city: Paris
   region:
   postcode:
-  country:
-summary:
-abstract: "https://meetingorganizer.copernicus.org/EGU21/EGU21-8365.html"
-
+  country: France
+summary: "Modélisation de la variabilité et des tendances climatiques en
+Himalaya pour une meilleure compréhension de leurs impacts sur la
+cryosphère"
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-27T09:00:00+02:00
-date_end: 2021-04-27T09:10:00+02:00
+date: 2020-01-13T09:30:00+02:00
+date_end: 2020-01-13T12:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-01T15:09:23+02:00
+publishDate: 2020-05-19T17:48:38+02:00
 
 authors: ["admin"]
-tags: ["EGU", "CMIP6", "HMA"]
+tags: ["PEDALONS", "LMDZ", "Himalaya"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,10 +48,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/PhD/EGU/2021-CMIP6-HMA-paper/20210427_EGU_CMIP6-HMA-paper_LALANDE.pdf"
+url_slides:
 
-url_code: "https://github.com/mickaellalande/PhD/tree/master/CICLAD/Himalaya/CMIP6_HMA_paper"
-url_pdf:
+url_code:
+url_pdf: "talk/phd/lmdz/pedalons/20200113_zoom/20200113_PEDALONS_zoom_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -68,4 +69,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_zF_HQO40vzgR-qrgQfOIdi29wsVR-5zoQRze1n4u7k6vZtMrLsOONfi0uZ3PnqxTdkL5A9nbJSwy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

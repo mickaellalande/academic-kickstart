@@ -1,31 +1,30 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Comite de Thèse - 1ère année"
-event: "Comite de Thèse - 1ère année"
+title: "Journée des Thèses 2020"
+event: "Journée des Thèses"
 event_url:
-location: "Institut des Géosciences de l'Environnement (IGE) - Salle Mont Blanc (OSUG-B)"
+location: "Institut des Géosciences de l'Environnement (IGE)"
 address:
-  street: "70 rue de la physique"
-  city: "Saint-Martin-d'Hères"
+  street:
+  city:
   region:
-  postcode: "38400"
+  postcode:
   country:
 summary: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
 abstract: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-09-10T09:00:00+02:00
-date_end: 2020-09-10T12:00:00+02:00
+date: 2020-12-08T15:00:00+01:00
+date_end: 2020-12-08T15:15:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-08-07T09:30:30+02:00
+publishDate: 2020-12-07T17:25:52+01:00
 
 authors: ["admin"]
-tags: ["HMA", "LMDZ", "Comité de Thèse", "CMIP6", "Cryosphere"]
-
+tags: ["HMA", "LMDZ", "Journée des thèses", "CMIP6", "Cryosphere"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -47,9 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/PhD/comite-de-these/1/comite_de_these_1ere_annee_LALANDE_slides.pdf"
-url_code: "https://github.com/mickaellalande/PhD"
-url_pdf: "talk/PhD/comite-de-these/1/comite_de_these_1ere_annee_LALANDE_v2.pdf"
+url_slides: "talk/phd/journee-des-theses/2020/Journee_des_theses_IGE_2020.pdf"
+
+url_code:
+url_pdf:
 url_video:
 
 # Markdown Slides (optional).
@@ -67,8 +67,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-- [Résumé et prospectives](comite_de_these_1ere_annee_LALANDE_v2.pdf)
-- [Accès à la présentation](https://docs.google.com/presentation/d/1oNPcQq0OllJfQf1YD9ObKmF9-CGhQGgWpSPSsmh-usM/edit?usp=sharing) (commentaires possibles)
-- Présentation :
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQRjIiXlFPr8OopMkcyXm2-tw_4jRrDNIXCbgY-nRoUmZWJxfHTk2pkJDlewP2QM2eBIsJkZkRN6Ym/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

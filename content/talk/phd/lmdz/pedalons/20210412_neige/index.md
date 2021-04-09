@@ -1,30 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Journée des Thèses 2020"
-event: "Journée des Thèses"
-event_url:
-location: "Institut des Géosciences de l'Environnement (IGE)"
+title: "PEDALONS: neige"
+event: "PEDALONS: neige"
+event_url: "https://lmdz.lmd.jussieu.fr/le-coin-des-developpeurs/reunions/2021-04-12-pedalons"
+location: LMD
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
-abstract: "Modélisation de la variabilité climatique et de ses liens avec la cryosphère dans les Hautes Montagnes d'Asie"
+summary: "Paramétrisation de la couverture de neige
+prenant en compte la variation de topographie sous-maille dans LMDZ/Orchidée
+"
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-12-08T15:00:00+01:00
-date_end: 2020-12-08T15:15:00+01:00
+date: 2021-04-12T09:30:00+02:00
+date_end: 2021-04-12T12:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-12-07T17:25:52+01:00
+publishDate: 2021-04-09T15:27:00+02:00
 
 authors: ["admin"]
-tags: ["HMA", "LMDZ", "Journée des thèses", "CMIP6", "Cryosphere"]
+tags: ["PEDALONS", "LMDZ", "Orchidée", "HMA", "Snow cover parameterization", "Neige", "Snow cover"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,10 +48,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/PhD/journee-des-theses/2020/Journee_des_theses_IGE_2020.pdf"
+url_slides:
 
-url_code:
-url_pdf:
+url_code: "https://github.com/mickaellalande/SCA_parameterization"
+url_pdf: "talk/phd/chantier-hma/cmip6-hma-paper/20210329_reunion-chantier-himalaya_CMIP6-HMA-paper_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).
@@ -67,4 +69,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQRjIiXlFPr8OopMkcyXm2-tw_4jRrDNIXCbgY-nRoUmZWJxfHTk2pkJDlewP2QM2eBIsJkZkRN6Ym/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbMQRfz0qD8uxLPvOA2Y9VTxuOHtDY1GiDRWwsr5lsEYREQ6HvjD0euhtrRTa_UoRb0F1JnhizCWdR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
