@@ -47,9 +47,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/comite-de-these-1ere-annee/comite_de_these_1ere_annee_LALANDE_slides.pdf"
+url_slides: "talk/PhD/comite-de-these/1/comite_de_these_1ere_annee_LALANDE_slides.pdf"
 url_code: "https://github.com/mickaellalande/PhD"
-url_pdf: "talk/comite-de-these-1ere-annee/comite_de_these_1ere_annee_LALANDE_v2.pdf"
+url_pdf: "talk/PhD/comite-de-these/1/comite_de_these_1ere_annee_LALANDE_v2.pdf"
 url_video:
 
 # Markdown Slides (optional).

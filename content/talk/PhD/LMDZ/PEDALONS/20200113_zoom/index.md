@@ -51,7 +51,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/zoom-and-regional-climates/20200113_PEDALONS_zoom_LALANDE.pdf"
+url_pdf: "talk/PhD/LMDZ/PEDALONS/20200113_zoom/20200113_PEDALONS_zoom_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).

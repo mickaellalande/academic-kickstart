@@ -51,7 +51,7 @@ image:
 url_slides:
 
 url_code: "https://github.com/mickaellalande/SCA_parameterization"
-url_pdf: "talk/zoom-and-regional-climates/20210412_snc-param_PEDALONS-neige_LALANDE.pdf"
+url_pdf: "talk/PhD/LMDZ/PEDALONS/20210412_neige/20210412_snc-param_PEDALONS-neige_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).

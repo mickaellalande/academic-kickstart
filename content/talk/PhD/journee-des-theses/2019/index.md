@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/thesis-day/journee_des_theses_2019_LALANDE.pdf"
+url_pdf: "talk/PhD/journee-des-theses/2019/journee_des_theses_2019_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).

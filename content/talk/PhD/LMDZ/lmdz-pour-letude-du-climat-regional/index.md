@@ -50,7 +50,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/lmdz-pour-letude-du-climat-regional/Réunion_ LMDZ pour l'étude du climat régional - Mickaël Lalande - Himalaya.pdf"
+url_pdf: "talk/PhD/LMDZ/lmdz-pour-letude-du-climat-regional/Réunion_ LMDZ pour l'étude du climat régional - Mickaël Lalande - Himalaya.pdf"
 url_video:
 
 # Markdown Slides (optional).

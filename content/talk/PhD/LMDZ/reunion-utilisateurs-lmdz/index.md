@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "talk/reunion-utilisateurs-lmdz/20200605_reunion_utilisateur_LMDZ_LALANDE.pdf"
+url_pdf: "talk/PhD/LMDZ/reunion-utilisateurs-lmdz/20200605_reunion_utilisateur_LMDZ_LALANDE.pdf"
 url_video:
 
 # Markdown Slides (optional).

@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/comite-de-these-1ere-annee/Journee_des_theses_IGE_2020.pdf"
+url_slides: "talk/PhD/journee-des-theses/2020/Journee_des_theses_IGE_2020.pdf"
 
 url_code:
 url_pdf:
