@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Tutorials"]
 ---
 
 I guess you are wondering how to make an academic website on your GitHub with the address *.github.io*. There are, of course, the solutions proposed directly by [GitHub page](https://pages.github.com/), however, it looks a bit *"old school"* in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the [Academic theme](https://sourcethemes.com/academic/)[^1] for [Hugo](https://gohugo.io/)[^2] that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.

@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Science et Climat"]
 ---
 
 Est-ce que vous vous êtes déjà demandé pourquoi on a tendance à bronzer au ski alors que l’on est en plein hiver ? Ou encore pourquoi est-ce que l’on a plus chaud avec un t-shirt noir qu’avec un t-shirt blanc ? Et qu’est-ce que tout cela a avoir avec le réchauffement climatique ? C’est justement ce que nous allons voir ensemble dans cette première vidéo sur l’albédo !

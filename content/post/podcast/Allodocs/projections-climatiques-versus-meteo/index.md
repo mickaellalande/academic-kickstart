@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Medias"]
 ---
 
 <iframe title="Embed Player" width="100%" height="188px" src="https://embed.acast.com/af40ee8f-c60c-581f-b9b4-1d2f53f47b3d/60523dd24a772e26066630fc" scrolling="no" frameBorder="0" style="border:none;overflow:hidden;"></iframe>

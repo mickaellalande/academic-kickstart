@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Tutorials"]
 ---
 
 First of all, I recommend you to look at what your server proposes as a method to launch Jupyter Notebooks. If however their method does not suit your needs and you want to install your own environment, here is the method I use (it works from a Linux workstation, you have to adapt if you are under another OS). This method is not official, nor generic, if you have other tips/methods don't hesitate to share them in the comments below.

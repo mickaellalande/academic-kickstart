@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Science et Climat"]
 ---
 
 Alors je pense que vous avez tous déjà entendu parler que le niveau des mers est en train de monter, c'est ce qu'on entend assez régulièrement dans les médias avec des hausses allant de quelques dizaines de centimètres plusieurs mètres, dont on sait d'ailleurs plus vraiment à quoi s'en tenir, et qui menace nos côtes, certaines grandes villes et impacte déjà certaines îles ! Mais alors qu'est-ce qui est vraiment à l’origine de tout ça ? On sent bien qu’avec le réchauffement climatique, on a d’un côté les glaciers qui fondent, les calottes ou encore la glace de mer mais alors qu’est-ce qui contribue réellement à cette élévation, de quelle manière le niveau des mers a varié par le passé et à quoi est-ce que l’on peut s’attendre dans le futur ? Et pourquoi est-ce que l’on voit des chiffres aussi différents à chaque fois que l’on parle de ce sujet… ? C’est exactement ce que nous allons voir dans ce deuxième épisode de Science et Climat ! Accrochez-vous c’est parti !
