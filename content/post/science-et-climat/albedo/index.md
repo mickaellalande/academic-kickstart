@@ -5,7 +5,7 @@ title: "L’albédo : le pouvoir réfléchissant de la Terre ! | Science et Clim
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["Albedo"]
+tags: ["Albedo", "YouTube"]
 categories: ["Science et Climat"]
 date: 2021-04-08T10:54:35+01:00
 lastmod: 2021-04-08T10:54:35+01:00
