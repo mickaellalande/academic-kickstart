@@ -9,9 +9,40 @@
   weight = 10
 
 [[main]]
+  identifier = "Projects"
   name = "Projects"
   url = "#projects"
   weight = 20
+
+[[main]]
+  parent = "Projects"
+  name = "All"
+  url = "#projects"
+  weight = 20
+
+[[main]]
+  parent = "Projects"
+  name = "PhD"
+  url = "project/phd"
+  weight = 20
+
+[[main]]
+  parent = "Projects"
+  name = "Tutorials"
+  url = "project/tutorials"
+  weight = 20
+
+[[main]]
+  parent = "Projects"
+  name = "Science et Climat"
+  url = "project/science-et-climat"
+  weight = 45
+
+[[main]]
+  parent = "Projects"
+  name = "Medias"
+  url = "project/medias"
+  weight = 50
 
 [[main]]
   name = "Posts"
@@ -25,7 +56,7 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]

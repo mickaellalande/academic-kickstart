@@ -28,8 +28,10 @@ image:
 projects: ["Medias"]
 ---
 
-Merci à l'Info Durable (https://www.linfodurable.fr/) pour cet article sur la chaine Science et Climat !
+Merci à l'[Info Durable](https://www.linfodurable.fr/) pour cet article sur ma chaîne [Science et Climat](https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q) !
 
 ![](linfodurable.jpg)
 
 Retrouvez l'article complet ici : https://www.linfodurable.fr/culture/climat-cinq-chaines-youtube-decouvrir-ou-revoir-29231
+
+Et puis n'hésitez pas à découvrir la chaîne sur les différents réseaux : [Science et Climat](/project/science-et-climat/) !

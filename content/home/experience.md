@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Grenoble, France"
   date_start = "2019-10-01"
   date_end = ""
-  description = """**Modeling climate trends and variability in the Himalaya to understand cryosphere changes** (supervised by <a href="http://pp.ige-grenoble.fr/pageperso/menegozm/" target="_blanck">Martin Ménégoz</a> and <a href="http://www.ige-grenoble.fr/-gerhard-krinner-" target="_blanck">Gerhard Krinner</a>)
+  description = """**Modeling climate trends and variability in the Himalaya to understand cryosphere changes** (supervised by <a href="http://martinmenegoz.neowordpress.fr/" target="_blanck">Martin Ménégoz</a> and <a href="http://www.ige-grenoble.fr/-gerhard-krinner-" target="_blanck">Gerhard Krinner</a>)
 
 <a href="project/phd/" target="_blanck">Project</a>
 
