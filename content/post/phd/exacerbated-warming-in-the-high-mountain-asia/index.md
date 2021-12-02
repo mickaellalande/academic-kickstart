@@ -28,6 +28,6 @@ image:
 projects: ["PhD", "Medias"]
 ---
 
-Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les
+Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia
 
 Scientific article: [Climate change in the High Mountain Asia in CMIP6](/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/)

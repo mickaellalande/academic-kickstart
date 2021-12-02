@@ -60,6 +60,11 @@
   weight = 40
 
 [[main]]
+  name = "CV"
+  url = "files/CV_LALANDE_2021_v0.pdf"
+  weight = 50
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60

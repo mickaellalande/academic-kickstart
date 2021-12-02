@@ -21,10 +21,11 @@ organizations:
 bio:
 
 interests:
-- Mountainous areas
-- Models and observations
-- Himalaya
-- Cryosphere
+- Mountainous Area
+- High Mountain Asia
+- Global Climate Models
+- CMIP6
+- Snow Cover Parameterization
 
 education:
   courses:
@@ -62,10 +63,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/micka%C3%ABl-lalande-bb9b723a/
 
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Mickael_Lalande
@@ -74,9 +71,9 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0001-5014-5249
 
-  - icon: mendeley
+  - icon: google-scholar
     icon_pack: ai
-    link: https://www.mendeley.com/profiles/mickal-lalande2/
+    link: https://scholar.google.com/citations?user=pN83kzcAAAAJ
 
   - icon: instagram
     icon_pack: fab
@@ -92,7 +89,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/CV_LALANDE_2021_v0.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
