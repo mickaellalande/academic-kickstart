@@ -68,6 +68,10 @@ projects: ["PhD"]
 slides: ""
 ---
 
+Link: https://doi.org/10.5194/esd-12-1061-2021
+
+---
+
 A big thank you to my laboratory ([Institut des Géosciences de l'Environnement](https://www.ige-grenoble.fr/)) for the publication of news about this article:
 - French version: [Réchauffement exacerbé dans les Hautes Montagnes d’Asie](https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les)
 - English version: [Exacerbated warming in the High Mountain Asia](https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia)

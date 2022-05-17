@@ -27,7 +27,7 @@ all_day: false
 publishDate: 2022-02-01T14:00:00+02:00
 
 authors: ["admin", "Martin Ménégoz", "Gerhard Krinner", "Catherine Ottlé"]
-tags: ["SnowHydro", "Snow cover", "Snow cover parameterization", "HMA"]
+tags: ["SnowHydro", "Conference", "Snow Cover", "Parameterization", "HMA", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
 featured: true

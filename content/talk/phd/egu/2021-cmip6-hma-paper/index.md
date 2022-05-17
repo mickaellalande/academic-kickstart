@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2021-04-01T15:09:23+02:00
 
 authors: ["admin"]
-tags: ["EGU", "CMIP6", "HMA"]
+tags: ["EGU", "Conference", "CMIP6", "HMA"]
 
 # Is this a featured talk? (true/false)
 featured: true

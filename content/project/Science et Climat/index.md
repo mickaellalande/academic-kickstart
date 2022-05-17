@@ -61,10 +61,6 @@ url_video: ""
 slides: ""
 ---
 
-Bonjour à tous et bienvenue sur la chaîne Science et Climat !
+*Science et Climat* is a French YouTube channel (English subtitles available) that intends to popularize climate related topics to better apprehend the issues raised by global warming.
 
-Le but de cette chaîne est de faire de la vulgarisation autour du climat afin que vous puissiez mieux appréhender les questions posées par le réchauffement climatique.
-
-Sans prise de position, on abordera des concepts comme l'albédo, les boucles de rétroactions, l'histoire du climat, etc. jusqu'aux rapports du GIEC, en passant par des interviews de chercheurs dans le domaine.
-
-Bon visionnage !
+Link: https://www.youtube.com/c/ScienceetClimat

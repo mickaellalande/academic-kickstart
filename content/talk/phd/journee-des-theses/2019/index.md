@@ -23,8 +23,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-05-19T18:25:37+02:00
 
-authors: []
-tags: ["Journée des thèses", "Himalaya"]
+authors: ["admin"]
+tags: ["PhD Day", "HMA"]
 
 # Is this a featured talk? (true/false)
 featured: false
