@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "SnowHydro2022: Adaptation of a snow cover scheme for complex topography areas: regional calibration over High Mountain Asia and application in global models"
+title: "SnowHydro2022: Adaptation of a snow cover scheme for complex topography areas"
 event: "3rd International Conference on Snow Hydrology"
 event_url: "https://snowhydro2022.sciencesconf.org/"
 location: "Online event ! | 1-4 Feb 2022 Grenoble (France)"
