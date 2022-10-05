@@ -49,7 +49,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/phd/igs/2022-scf-param/igs22_91A3933_Lalande_compressed"
+url_slides: "talk/phd/igs/2022-scf-param/igs22_91A3933_Lalande_compressed.pdf"
 
 url_code: "https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations"
 url_pdf:
