@@ -5,11 +5,11 @@ title: "Allodocs #21"
 subtitle: "Comment peut-on faire des projections climatiques jusqu'en 2100, alors qu'on ne peut pas prédire le temps qu'il fera dans 10 jours ?"
 summary: "Comment peut-on faire des projections climatiques jusqu'en 2100, alors qu'on ne peut pas prédire le temps qu'il fera dans 10 jours ?"
 authors: ["admin"]
-tags: ["Podcast", "Météo", "Climat"]
+tags: ["Podcast", "Météo", "Climate Change"]
 categories: ["Podcast"]
 date: 2021-04-01T16:22:32+02:00
 lastmod: 2021-04-01T16:22:32+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

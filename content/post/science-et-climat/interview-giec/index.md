@@ -5,7 +5,7 @@ title: "Dernier rapport du GIEC : où en est-on du réchauffement climatique ? |
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["GIEC", "YouTube"]
+tags: ["IPCC", "YouTube"]
 categories: ["Science et Climat"]
 date: 2021-10-30T11:00:00+02:00
 lastmod: 2021-10-30T11:00:00+02:00

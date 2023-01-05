@@ -23,12 +23,12 @@ date_format = "Jan 2006"
   company_url = "http://www.ige-grenoble.fr/"
   location = "Grenoble, France"
   date_start = "2019-10-01"
-  date_end = ""
-  description = """**Modeling climate trends and variability in the Himalaya to understand cryosphere changes** (supervised by <a href="http://martinmenegoz.neowordpress.fr/" target="_blanck">Martin Ménégoz</a> and <a href="http://www.ige-grenoble.fr/-gerhard-krinner-" target="_blanck">Gerhard Krinner</a>)
+  date_end = "2022-12-31"
+  description = """**Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes** (supervised by Martin Ménégoz and <a href="http://www.ige-grenoble.fr/-gerhard-krinner-" target="_blanck">Gerhard Krinner</a>)
 
-  CMIP6 - [LMDZ](https://lmdz.lmd.jussieu.fr/)/[ORCHIDEE](https://orchidee.ipsl.fr/) ([IPSL GCM](https://cmc.ipsl.fr/ipsl-climate-models/)) - Snow Cover Parameterization
+High Mountain Asia - Mountain Areas - General Circulation Models - CMIP6 - Snow Cover - Parameterizations
 
-<a href="project/phd/" target="_blanck">Project</a>
+<a href="project/phd/" target="_blanck">Project</a> | <a href="https://github.com/mickaellalande/PhD" target="_blanck">Code</a>
 
 
 
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 
   Oceanography - Chaos - Deep Learning - Spatial Altimetry
 
-  <a href="files/Rapport_de_stage_M2_LALANDE.pdf" target="_blanck">Download report</a> | <a href="https://github.com/mickaellalande/UNetOceanFilter" target="_blanck">Code</a>
+  <a href="files/Rapport_de_stage_M2_LALANDE.pdf" target="_blanck">Report</a> | <a href="https://github.com/mickaellalande/UNetOceanFilter" target="_blanck">Code</a>
   """
 
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
 
   Hydrological cycle - Models - Reanalyses
 
-  <a href="files/LALANDE_M1_ACSC_Internship_report.pdf" target="_blanck">Download report</a>
+  <a href="files/LALANDE_M1_ACSC_Internship_report.pdf" target="_blanck">Report</a>
   """
 
 +++

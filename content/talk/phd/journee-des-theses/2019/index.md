@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-05-19T18:25:37+02:00
 
 authors: ["admin"]
-tags: ["PhD Day", "HMA"]
+tags: ["High Mountain Asia", "LMDZ", "CMIP6", "Snow"]
 
 # Is this a featured talk? (true/false)
 featured: false

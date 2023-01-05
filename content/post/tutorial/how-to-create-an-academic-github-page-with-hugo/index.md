@@ -5,7 +5,7 @@ title: "How to Create an Academic/Wowchemy GitHub Page With Hugo?"
 subtitle: ""
 summary: " "
 authors: ["admin"]
-tags: ["Website", "Github"]
+tags: ["Website", "GitHub"]
 categories: ["Tutorial"]
 date: 2020-05-19T11:38:58+02:00
 lastmod: 2020-05-19T11:38:58+02:00

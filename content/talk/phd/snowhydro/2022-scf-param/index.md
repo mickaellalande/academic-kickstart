@@ -27,10 +27,10 @@ all_day: false
 publishDate: 2022-02-01T14:00:00+02:00
 
 authors: ["admin", "Martin Ménégoz", "Gerhard Krinner", "Catherine Ottlé"]
-tags: ["SnowHydro", "Conference", "Snow Cover", "Parameterization", "HMA", "LMDZ", "ORCHIDEE", "GCM"]
+tags: ["SnowHydro", "Conference", "Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

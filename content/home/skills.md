@@ -18,37 +18,37 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "70%"
+  description = "80%"
 
 [[feature]]
   icon = "book-open"
   icon_pack = "fas"
   name = "Jupyter Notebok"
-  description = "70%"
+  description = "80%"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "60%"
+  description = "70%"
 
 [[feature]]
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  description = "50%"
+  description = "60%"
 
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "LMDZ"
-  description = "20%"
+  name = "ORCHIDEE/LMDZ"
+  description = "40%"
 
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "Fortran"
-  description = "10%"
+  description = "20%"
 
 
 

@@ -9,7 +9,7 @@ tags: ["YouTube"]
 categories: ["Science et Climat"]
 date: 2021-10-23T12:00:00+02:00
 lastmod: 2021-10-23T12:00:00+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image

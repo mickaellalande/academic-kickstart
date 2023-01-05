@@ -5,7 +5,7 @@ title: "How to Install Jupyter Notebook on a Server?"
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["Jupyter Notebook", "Server", "Linux"]
+tags: ["Python", "Server", "Linux"]
 categories: ["Tutorial"]
 date: 2021-04-22T10:00:36+02:00
 lastmod: 2021-04-22T10:00:36+02:00

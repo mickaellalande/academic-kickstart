@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2020-05-19T18:28:51+02:00
 
 authors: []
-tags: ["LMDZ", "HMA"]
+tags: ["LMDZ", "High Mountain Asia"]
 
 # Is this a featured talk? (true/false)
 featured: false

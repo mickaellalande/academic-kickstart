@@ -5,7 +5,7 @@ title: "FLASH | Le réchauffement climatique en cours est-il dû à l'Homme ?"
 subtitle: ""
 summary: "La réponse en moins de 2 min avec Mickaël Lalande, doctorant à l'Institut des Géosciences de l'Environnement"
 authors: ["admin"]
-tags: ["Climat", "GIEC", "Changement climatique"]
+tags: ["IPCC", "Climate Change"]
 categories: ["Video"]
 date: 2021-11-05T14:08:32+01:00
 lastmod: 2021-11-05T14:08:32+01:00

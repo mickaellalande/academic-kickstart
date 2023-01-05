@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-04-01T15:06:32+02:00
 
 authors: ["admin"]
-tags: ["Chantier HMA", "HMA", "CMIP6"]
+tags: ["High Mountain Asia", "CMIP6"]
 
 # Is this a featured talk? (true/false)
 featured: false

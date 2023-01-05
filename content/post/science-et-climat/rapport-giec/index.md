@@ -5,7 +5,7 @@ title: "8 figures du dernier rapport du GIEC ! | Science et Climat"
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["GIEC", "YouTube"]
+tags: ["IPCC", "YouTube"]
 categories: ["Science et Climat"]
 date: 2021-10-16T12:00:00+02:00
 lastmod: 2021-10-16T12:00:00+02:00

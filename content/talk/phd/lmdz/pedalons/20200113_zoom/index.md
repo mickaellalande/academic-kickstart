@@ -26,7 +26,7 @@ all_day: false
 publishDate: 2020-05-19T17:48:38+02:00
 
 authors: ["admin"]
-tags: ["PEDALONS", "LMDZ", "HMA"]
+tags: ["LMDZ", "High Mountain Asia"]
 
 # Is this a featured talk? (true/false)
 featured: false

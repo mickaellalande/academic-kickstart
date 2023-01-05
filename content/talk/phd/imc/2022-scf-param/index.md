@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IMC 2022: Adaptation of a snow cover scheme for complex topography areas"
+title: "IMC2022: Adaptation of a snow cover scheme for complex topography areas"
 event: "International Mountain Conference 2022"
 event_url: "https://www.imc2022.info/"
 location: "Innsbruck, September 11 - 15, 2022"
@@ -27,7 +27,7 @@ all_day: false
 publishDate: 2022-09-06T11:00:00+02:00
 
 authors: ["admin", "Martin Ménégoz", "Gerhard Krinner", "Catherine Ottlé"]
-tags: ["IMC", "Conference", "Snow Cover", "Parameterization", "HMA", "LMDZ", "ORCHIDEE", "GCM"]
+tags: ["IMC", "Conference", "Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
 featured: true

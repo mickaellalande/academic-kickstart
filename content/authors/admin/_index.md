@@ -21,11 +21,14 @@ organizations:
 bio:
 
 interests:
-- Mountainous Area
-- High Mountain Asia
-- Global Climate Models
+- Snow
+- Models
+- Mountain Areas
+- General Circulation Models
 - CMIP6
-- Snow Cover Parameterization
+- Parameterizations
+- Deep Learning
+
 
 education:
   courses:
@@ -102,4 +105,4 @@ user_groups:
 
 ---
 
-I am currently working on *[Modeling climate trends and variability in the Himalaya to understand cryosphere changes](https://www.theses.fr/s226411)* at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France). My supervisors are [Martin Ménégoz](http://martinmenegoz.neowordpress.fr/) and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-). We are in close collaboration with [IPSL](https://www.ipsl.fr/) in Paris using the [LMDZ](https://lmdz.lmd.jussieu.fr/) model.
+I am currently PhD student at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France), working on *[Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes](project/phd/)* (supervised by Martin Ménégoz and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-)). We have a strong collaboration with the [IPSL](https://www.ipsl.fr/), using their [ORCHIDEE](https://orchidee.ipsl.fr/) and [LMDZ](https://lmdz.lmd.jussieu.fr/) models.

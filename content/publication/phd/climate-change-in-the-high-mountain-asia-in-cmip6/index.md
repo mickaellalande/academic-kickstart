@@ -24,7 +24,7 @@ abstract: "Climate change over High Mountain Asia (HMA, including the Tibetan Pl
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["HMA", "CMIP6", "Temperature", "Precipitation", "Snow cover"]
+tags: ["High Mountain Asia", "CMIP6", "Temperature", "Precipitation", "Snow"]
 categories: []
 featured: false
 

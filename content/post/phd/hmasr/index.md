@@ -5,7 +5,7 @@ title: "Validation of HMASR with snow depth stations"
 subtitle: "Personal work in progress. Do not take as is, there has been no peer validation and there may be errors."
 summary: "Personal work in progress. Do not take as is, there has been no peer validation and there may be errors."
 authors: ["admin"]
-tags: ["HMASR", "HMA", "Snow reanalysis", "TPDC", "Stations"]
+tags: ["Dataset", "HMASR", "High Mountain Asia", "TPDC"]
 categories: ["Work"]
 date: 2021-11-05T10:45:00+01:00
 lastmod: 2021-11-05T10:45:00+01:00

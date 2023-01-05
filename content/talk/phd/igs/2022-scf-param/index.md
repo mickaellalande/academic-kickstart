@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IGS 2022: Adaptation of a snow cover scheme for complex topography areas"
+title: "IGS2022: Adaptation of a snow cover scheme for complex topography areas"
 event: "International Symposium on Snow 2022"
 event_url: "https://www.slf.ch/en/about-the-slf/events-and-courses/international-symposium-on-snow-2022.html"
 location: "Davos, September 25 - 30, 2022"
@@ -27,10 +27,10 @@ all_day: false
 publishDate: 2022-09-23T17:30:00+02:00
 
 authors: ["admin", "Martin Ménégoz", "Gerhard Krinner", "Catherine Ottlé"]
-tags: ["IGS", "Conference", "Snow Cover", "Parameterization", "HMA", "LMDZ", "ORCHIDEE", "GCM"]
+tags: ["IGS", "Conference", "Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

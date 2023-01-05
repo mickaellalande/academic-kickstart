@@ -7,7 +7,7 @@ summary: "Mickaël Lalande est doctorant en géosciences à l'Université Grenob
 
 Il travaille sur la modélisation climatique. Cela ne vous dit rien ? Il s'agit de diviser la planète en cubes et de calculer les variables climatiques pour faire des projections, facile !"
 authors: ["admin"]
-tags: ["Thèse", "Climat", "Changement climatique", "Modèle de climat", "Neige", "Montagne", "Himalaya", "HMA"]
+tags: ["PhD", "Climate Change", "GCM", "Snow", "Mountain Areas", "High Mountain Asia"]
 categories: ["Video"]
 date: 2022-12-02T10:00:00+01:00
 lastmod: 2022-12-02T10:00:00+01:00

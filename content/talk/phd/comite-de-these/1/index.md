@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-08-07T09:30:30+02:00
 
 authors: ["admin"]
-tags: ["HMA", "LMDZ", "Comité de Thèse", "CMIP6", "Cryosphere"]
+tags: ["High Mountain Asia", "LMDZ", "CMIP6", "Snow"]
 
 
 # Is this a featured talk? (true/false)

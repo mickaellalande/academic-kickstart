@@ -26,7 +26,7 @@ all_day: false
 publishDate: 2021-04-09T15:27:00+02:00
 
 authors: ["admin"]
-tags: ["PEDALONS", "LMDZ", "ORCHIDEE", "HMA", "Snow Cover", "Parameterization"]
+tags: ["LMDZ", "ORCHIDEE", "High Mountain Asia", "Snow", "Parameterization"]
 
 # Is this a featured talk? (true/false)
 featured: false
