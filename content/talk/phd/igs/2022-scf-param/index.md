@@ -27,7 +27,7 @@ all_day: false
 publishDate: 2022-09-23T17:30:00+02:00
 
 authors: ["admin", "Martin Ménégoz", "Gerhard Krinner", "Catherine Ottlé"]
-tags: ["IGS", "Conference", "Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
+tags: ["IGS", "Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
 featured: false

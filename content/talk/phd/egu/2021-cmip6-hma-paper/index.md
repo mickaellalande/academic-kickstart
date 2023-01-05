@@ -25,7 +25,7 @@ all_day: false
 publishDate: 2021-04-01T15:09:23+02:00
 
 authors: ["admin"]
-tags: ["EGU", "Conference", "CMIP6", "High Mountain Asia"]
+tags: ["EGU", "CMIP6", "High Mountain Asia"]
 
 # Is this a featured talk? (true/false)
 featured: true
