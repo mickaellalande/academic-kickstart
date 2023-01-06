@@ -5,7 +5,7 @@ title: "Exacerbated warming in the High Mountain Asia"
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["CMIP6", "High Mountain Asia", "Climate Change"]
+tags: ["CMIP6", "High Mountain Asia", "Climate"]
 categories: ["Article"]
 date: 2021-11-03T13:33:23+01:00
 lastmod: 2021-11-03T13:33:23+01:00

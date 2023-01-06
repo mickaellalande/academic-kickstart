@@ -5,7 +5,7 @@ title: "Bienvenue sur la chaîne Science et Climat !"
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["YouTube", "Science", "Climate Change"]
+tags: ["YouTube", "Science", "Climate"]
 categories: ["Science et Climat"]
 date: 2021-01-18T15:15:30+01:00
 lastmod: 2021-01-18T15:15:30+01:00

@@ -5,7 +5,7 @@ title: "Réchauffement exacerbé dans les Hautes Montagnes d’Asie"
 subtitle: ""
 summary: ""
 authors: ["admin"]
-tags: ["CMIP6", "High Mountain Asia", "Climate Change"]
+tags: ["CMIP6", "High Mountain Asia", "Climate"]
 categories: ["Article"]
 date: 2021-11-10T13:33:23+01:00
 lastmod: 2021-11-10T13:33:23+01:00
