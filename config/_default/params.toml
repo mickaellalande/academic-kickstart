@@ -86,14 +86,14 @@ email = "mickael.lalande@univ-grenoble-alpes.fr"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institut des Géosciences de l'Environnement (IGE)<br> 54 Rue Molière", city = "Saint-Martin-d'Hères", region = "", postcode = "38400", country = "France", country_code = "FR"}
+address = {street = "UQTR / RIVES / GLACIOLAB<br> 3351 Bd des Forges", city = "Trois-Rivières (Canada)", region = "Québec", postcode = "QC, G8Z 4M3", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.193407", longitude = "5.757778"}
+coordinates = {latitude = "46.34804965979725", longitude = "-72.57667097602273"}
 
 # Directions for visitors to locate you.
-directions = "Glaciology building -- Office 120.3 on Floor 1"
+directions = "UQTR/Pavillon Léon-Provancher (bureau 3478)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

@@ -19,23 +19,41 @@
   url = "#projects"
   weight = 20
 
-[[main]]
-  parent = "Projects"
-  name = "All"
-  url = "#projects"
-  weight = 20
+  [[main]]
+    parent = "Projects"
+    name = "All"
+    url = "#projects"
+    weight = 1
 
-[[main]]
-  parent = "Projects"
-  name = "PhD"
-  url = "project/phd"
-  weight = 20
+  [[main]]
+    parent = "Projects"
+    name = "SnowC2 (2023-2025)"
+    url = "project/snowc2"
+    weight = 2
 
-[[main]]
-  parent = "Projects"
-  name = "Science et Climat"
-  url = "project/science-et-climat"
-  weight = 45
+  [[main]]
+    parent = "Projects"
+    name = "PhD (2019-2022)"
+    url = "project/phd"
+    weight = 3
+
+  [[main]]
+    parent = "Projects"
+    name = "Science et Climat"
+    url = "project/science-et-climat"
+    weight = 4
+
+  [[main]]
+    parent = "Projects"
+    name = "Medias"
+    url = "project/medias"
+    weight = 5
+
+  [[main]]
+    parent = "Projects"
+    name = "Tutorials"
+    url = "project/tutorials"
+    weight = 6
 
 [[main]]
   name = "Posts"
@@ -44,7 +62,7 @@
 
 [[main]]
   name = "Talks"
-  url = "#featured"
+  url = "#talks"
   weight = 35
 
 [[main]]
@@ -53,18 +71,8 @@
   weight = 40
 
 [[main]]
-  name = "Tutorials"
-  url = "project/tutorials"
-  weight = 41
-
-[[main]]
-  name = "Medias"
-  url = "project/medias"
-  weight = 45
-
-[[main]]
   name = "CV"
-  url = "files/CV_LALANDE_2023_v1.0.pdf"
+  url = "files/CV_LALANDE_2023_v2.1.pdf"
   weight = 50
 
 [[main]]

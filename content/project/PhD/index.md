@@ -3,10 +3,12 @@
 
 title: "PhD (2019-2022)"
 summary: "Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes"
-authors: []
+authors: [admin]
 tags: ["Mountain Areas", "GCM", "CMIP6", "Snow", "Parameterization"]
 categories: ["PhD"]
-date: 2020-05-19T17:08:20+02:00
+date: 2021-09-03T14:15:00+02:00 #2020-05-19T17:08:20+02:00
+
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,6 +44,11 @@ slides: ""
 
 ## Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes
 
+3-years PhD project from 01/10/2019 to 31/12/2022 supervised by [Martin Ménégoz](https://scholar.google.es/citations?user=mouv8-IAAAAJ&hl=en) and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-) at [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France)
+
+
+### Abstract
+
 The High Mountain Asia (HMA) is hosting the largest ice stock after the polar regions. This resource provides a freshwater supply to nearly 1.4 billion people, making it a particularly vulnerable region to climate change. HMA includes the highest mountain ranges on Earth, including the Himalayas, Karakoram, and Hindu Kush, which surround the Tibetan Plateau (TP), an area of nearly 2.5&nbsp;million&nbsp;km² with an average elevation of about 4000&nbsp;m.
 
 Studying climate change in HMA is challenging because of its complex topography which makes difficult the application of climate models in this area, and limits the possibility to collect observations. The aim of this thesis is to study the variability and trends of the climate in HMA. It is based on two main objectives: (1) studying and quantifying the climate change in HMA with general circulation models (GCMs) experiments and observation datasets, and (2) improving the simulated snow cover in mountainous regions in GCMs.
@@ -60,4 +67,4 @@ The lack of snowpack observations in mountainous regions is currently a major li
 **Keywords**: High Mountain Asia, Mountain Areas, General Circulation Models, CMIP6, Snow Cover, Parameterizations
 
 
-Supervised by Martin Ménégoz and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-). More details at: https://www.theses.fr/s226411
+More details and PhD manuscript at: https://www.theses.fr/s226411

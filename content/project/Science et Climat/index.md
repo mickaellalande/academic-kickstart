@@ -6,7 +6,7 @@ summary: "Chaine YouTube de vulgarisation autour de la science et du climat !"
 authors: ["admin"]
 tags: ["YouTube"]
 categories: ["Science et Climat"]
-date: 2021-09-02T13:42:00+02:00
+date: 2021-09-03T13:42:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
