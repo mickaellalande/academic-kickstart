@@ -42,7 +42,7 @@ slides: ""
 
 ## Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions
 
-[ESA Climate Change Initiative Fellowship](https://climate.esa.int/en/esa-climate/esa-cci/fellowships/) (2-years postdoc project from 01/10/2023 to 30/09/2025) supervised by [Christophe Kinnard](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&owa_bottin=&owa_no_fiche=3&owa_no_form_reponse=221924&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=N&owa_lettre=%25&owa_no_page=1) at [UQTR](https://www.uqtr.ca/index.shtml) / [RIVE](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137) / [GLACIOLAB](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528) (Trois-Rivières, Canada)
+[ESA Climate Change Initiative Fellowship](https://climate.esa.int/en/esa-climate/esa-cci/fellowships/) (2-years postdoc project from 01/10/2023 to 30/09/2025) supervised by [Christophe Kinnard](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&owa_bottin=&owa_no_fiche=3&owa_no_form_reponse=221924&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=N&owa_lettre=%25&owa_no_page=1) and [Alexandre Roy](https://oraprdnt.uqtr.uquebec.ca/pls/public/genw050r.page_perso?owa_no_personne=730015) at [UQTR](https://www.uqtr.ca/index.shtml) / [RIVE](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137) / [GLACIOLAB](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528) (Trois-Rivières, Canada)
 
 ### Abstract
 

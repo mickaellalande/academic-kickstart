@@ -43,18 +43,6 @@
     url = "project/science-et-climat"
     weight = 4
 
-  [[main]]
-    parent = "Projects"
-    name = "Medias"
-    url = "project/medias"
-    weight = 5
-
-  [[main]]
-    parent = "Projects"
-    name = "Tutorials"
-    url = "project/tutorials"
-    weight = 6
-
 [[main]]
   name = "Posts"
   url = "#posts"
@@ -69,6 +57,16 @@
   name = "Publications"
   url = "#publications"
   weight = 40
+
+[[main]]
+  name = "Medias"
+  url = "project/medias"
+  weight = 41
+
+[[main]]
+  name = "Tutorials"
+  url = "project/tutorials"
+  weight = 42
 
 [[main]]
   name = "CV"
