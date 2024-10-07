@@ -9,7 +9,7 @@ categories: ["Postdoc"]
 date: 2023-10-10T14:23:06-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/mickaellalande/SnowC2"
 url_pdf: ""
 url_slides: ""
 url_video: ""

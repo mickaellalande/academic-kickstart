@@ -93,7 +93,7 @@ address = {street = "UQTR / RIVE / GLACIOLAB<br> 3351 Bd des Forges", city = "Tr
 coordinates = {latitude = "46.34804965979725", longitude = "-72.57667097602273"}
 
 # Directions for visitors to locate you.
-directions = "UQTR/Pavillon Léon-Provancher (bureau 3478)"
+directions = "UQTR/Pavillon Léon-Provancher (bureau 3512)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
