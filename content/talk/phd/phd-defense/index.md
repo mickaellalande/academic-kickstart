@@ -42,7 +42,7 @@ authors: ["admin"]
 tags: [Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM", "CMIP6"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
