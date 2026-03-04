@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: UQTR / RIVE / GLACIOLAB
-  url: "https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528"
+- name: Takuvik Joint International Laboratory (Université Laval & CNRS-INSU), Québec, Canada
+  url: "https://www.takuvik.ulaval.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -33,6 +33,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Researcher
+    institution: Takuvik Joint International Laboratory (Université Laval & CNRS-INSU; Quebec City, Canada)
+    year: 2026-2027
   - course: ESA CCI Postdoc Fellowship
     institution: UQTR / RIVE / GLACIOLAB (Trois-Rivières, Canada)
     year: 2023-2025
@@ -42,9 +45,9 @@ education:
   - course: MSc in Atmosphere, Climate, and Continental Surfaces
     institution: Université Grenoble Alpes (Grenoble, France)
     year: 2019
-  - course: BSc in Physics / Earth Science and Environment
-    institution: Université Grenoble Alpes (Grenoble, France)
-    year: 2013 / 2014
+  # - course: BSc in Physics / Earth Science and Environment
+  #   institution: Université Grenoble Alpes (Grenoble, France)
+  #   year: 2013 / 2014
 
 
 # Social/Academic Networking (https://sourcethemes.com/academic/docs/page-builder/#icons)
@@ -107,6 +110,9 @@ user_groups:
 
 ---
 
-I’m currently a postdoc fellow at the [Université du Québec à Trois-Rivières (UQTR)](https://www.uqtr.ca/index.shtml) / [RIVE](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137) / [GLACIOLAB](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528) funded by the [ESA Climate Change Initiative](https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/) on “[Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions (SnowC<sup>2</sup>)](project/snowc2)” under the supervision of [Christophe Kinnard](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&owa_bottin=&owa_no_fiche=3&owa_no_form_reponse=221924&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=N&owa_lettre=%25&owa_no_page=1) and [Alexandre Roy](https://oraprdnt.uqtr.uquebec.ca/pls/public/genw050r.page_perso?owa_no_personne=730015). The main objectives of this project are to improve the current snow model in [CLASSIC](https://cccma.gitlab.io/classic_pages/info/class/) and assess the influence of these new developments in the Arctic. 
+❄️ I am currently a postdoctoral researcher at the [Takuvik Joint International Laboratory](https://www.takuvik.ulaval.ca/) (Université Laval & CNRS-INSU; Quebec City, Canada), working with Florent Dominé to improve the representation of Arctic snowpacks in physically based snow models. 
 
-Before that, I received my PhD at the [Institute of Environmental Geosciences](http://www.ige-grenoble.fr/?lang=en) (Grenoble, France) on “[Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes](project/phd/)” supervised by [Martin Ménégoz](https://scholar.google.es/citations?user=mouv8-IAAAAJ&hl=en) and [Gerhard Krinner](http://www.ige-grenoble.fr/-gerhard-krinner-), where I mainly focused on a [CMIP6 multimodel study](publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/) and on improving the representation of topography in snow cover parameterizations using the [ORCHIDEE](https://orchidee.ipsl.fr/) land surface model.
+🌐 Previously, I led an ESA CCI postdoc fellowship at UQTR (Trois-Rivières, Canada) within the [SnowC2](https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/) project, which aimed to improve the snow scheme of the [CLASSIC](https://cccma.gitlab.io/classic_pages/) LSM in Arctic regions, in collaboration with Environment and Climate Change Canada. 
+
+🏔️ I obtained my PhD at [IGE](https://www.ige-grenoble.fr/) (Grenoble, France), under the supervision of Martin Ménégoz and Gerhard Krinner, where I investigated climate trends and variability in High Mountain Asia using CMIP6 multi-model analyses and developments in the [ORCHIDEE](https://orchidee.ipsl.fr/) LSM.
+

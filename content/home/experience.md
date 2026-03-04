@@ -18,13 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Takuvik Joint International Laboratory (Université Laval & CNRS-INSU)"
+  company_url = "https://www.takuvik.ulaval.ca/"
+  location = "Québec, Canada"
+  date_start = "2026-03-01"
+  date_end = "2027-02-27"
+  description = """**Improving the representation of Arctic snowpacks in physically based snow models** supervised by Florent Dominé
+
+*Snow Model Development - Observations - Arctic regions*
+
+
+
+"""
+
 [[experience]]
   title = "ESA CCI Postdoc Fellowship"
   company = "UQTR / RIVE / GLACIOLAB"
   company_url = "https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528"
   location = "Trois-Rivières, Canada"
   date_start = "2023-10-01"
-  date_end = "2025-09-30"
+  date_end = "2025-10-30"
   description = """**Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions (SnowC<sup>2</sup>)** supervised by [Christophe Kinnard](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&owa_bottin=&owa_no_fiche=3&owa_no_form_reponse=221924&owa_apercu=N&owa_imprimable=N&owa_brouillon=N&owa_fenetre_surgissante=N&owa_lettre=%25&owa_no_page=1)
 
 *Snow Model Development - CLASSIC - Arctic regions*

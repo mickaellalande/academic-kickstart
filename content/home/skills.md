@@ -36,19 +36,19 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-  description = "60%"
+  description = "70%"
 
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "ORCHIDEE/LMDZ"
-  description = "40%"
+  name = "ORCHIDEE / CLASSIC"
+  description = "60%"
 
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "Fortran"
-  description = "20%"
+  description = "60%"
 
 
 

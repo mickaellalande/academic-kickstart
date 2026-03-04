@@ -87,13 +87,14 @@ email = "mickael.lalande.phd@gmail.com"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "UQTR / RIVE / GLACIOLAB<br> 3351 Bd des Forges", city = "Trois-Rivières (Canada)", region = "Québec", postcode = "QC, G8Z 4M3", country = "Canada", country_code = "CA"}
+address = {street = "Pavillon Alexandre-Vachon (VCH) - Université Laval<br> 1045 Av. de la Médecine, Québec, QC G1V 0A6 (Canada)"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "46.34804965979725", longitude = "-72.57667097602273"}
+coordinates = {latitude = "46.7802883", longitude = "-71.2767507"}
 
 # Directions for visitors to locate you.
-#directions = "UQTR/Pavillon Léon-Provancher (bureau 3512)"
+directions = "Takuvik International Laboratory <br> Université Laval and CNRS"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
