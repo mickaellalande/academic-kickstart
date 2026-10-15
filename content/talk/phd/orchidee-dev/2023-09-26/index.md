@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2023-10-10T15:58:45-04:00
 
-authors: ["admin", Martin Ménégoz, Gerhard Krinner, Catherine Ottlé, and Frédérique Cheruy]
+authors: ["admin", Martin Ménégoz, Gerhard Krinner, Catherine Ottlé, Frédérique Cheruy]
 tags: [Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 
 # Is this a featured talk? (true/false)
