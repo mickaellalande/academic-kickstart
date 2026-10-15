@@ -26,7 +26,7 @@ summary: "This study investigates the impact of topography on snow cover paramet
 
 tags: ["Snow", "Parameterization", "High Mountain Asia", "LMDZ", "ORCHIDEE", "GCM"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

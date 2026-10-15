@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -14,41 +14,45 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "80%"
+
 
 [[feature]]
-  icon = "book-open"
+  icon = "code"
   icon_pack = "fas"
-  name = "Jupyter Notebok"
-  description = "80%"
-
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "70%"
-
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "GitHub"
-  description = "70%"
+  name = "Programming"
+  description = "Python · Fortran"
 
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "ORCHIDEE / CLASSIC"
-  description = "60%"
+  name = "Climate & Snow Models"
+  description = "CLASSIC · ORCHIDEE · LMDZ"
 
 [[feature]]
-  icon = "file-code"
+  icon = "server"
   icon_pack = "fas"
-  name = "Fortran"
-  description = "60%"
+  name = "Linux & HPC"
+  description = "IDRIS · TGCC"
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Development Tools"
+  description = "VS Code · JupyterLab"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Version Control"
+  description = "GitHub · GitLab"
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "AI-Assisted Coding"
+  description = "Copilot · Codex"
+
+
 
 
 

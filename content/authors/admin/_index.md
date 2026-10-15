@@ -79,6 +79,10 @@ social:
     icon_pack: ai
     link: https://orcid.org/0000-0001-5014-5249
 
+  - icon: researcherid
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/PYW-1434-2026
+
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=pN83kzcAAAAJ

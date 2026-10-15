@@ -26,7 +26,7 @@ summary: "Climate change over High Mountain Asia is investigated with CMIP6 clim
 
 tags: ["High Mountain Asia", "CMIP6", "Temperature", "Precipitation", "Snow"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

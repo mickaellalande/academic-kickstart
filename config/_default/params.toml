@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mickael.lalande.phd@gmail.com"
+# email = "mickael.lalande.phd@gmail.com"
 # phone = "888 888 88 88"
 
 # Address
@@ -111,7 +111,9 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  {icon = "envelope", icon_pack = "fas", name = "mickael.lalande@takuvik.ulaval.ca", link = "mailto:mickael.lalande@takuvik.ulaval.ca"},
+  {icon = "envelope", icon_pack = "fas", name = "mickael.lalande.phd@gmail.com", link = "mailto:mickael.lalande.phd@gmail.com"},
+]
 
 ############################
 ## Social
