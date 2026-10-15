@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks"
-authors: [Mickaël Lalande, Alexandre Roy, Libo Wang, Diana Verseghy, Vincent Vionnet, Florent Dominé, and Christophe Kinnard]
+authors: [Mickaël Lalande, Alexandre Roy, Libo Wang, Diana Verseghy, Vincent Vionnet, Florent Dominé, Christophe Kinnard]
 date: 2026-10-12T00:00:00+05:00
 doi: "https://doi.org/10.5194/gmd-19-9581-2026"
 
@@ -44,8 +44,6 @@ url_project: "https://climate.esa.int/en/about-us-new/fellowships/esa-cci-resear
 url_slides:
 url_source:
 url_video:
-
-doi: "10.5194/gmd-19-9581-2026"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

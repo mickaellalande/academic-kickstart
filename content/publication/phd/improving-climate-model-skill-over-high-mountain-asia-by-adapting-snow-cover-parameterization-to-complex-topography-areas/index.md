@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Improving climate model skill over High Mountain Asia by adapting snow cover parameterization to complex-topography areas"
-authors: [Mickaël Lalande, Martin Ménégoz, Gerhard Krinner, Catherine Ottlé, and Frédérique Cheruy]
+authors: [Mickaël Lalande, Martin Ménégoz, Gerhard Krinner, Catherine Ottlé, Frédérique Cheruy]
 date: 2023-12-04T00:00:00+05:00
 doi: "https://doi.org/10.5194/tc-17-5095-2023"
 

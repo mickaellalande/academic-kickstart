@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impact of topography and meteorological forcing on snow simulation in the Canadian Land Surface Scheme Including Biogeochemical Cycles (CLASSIC)"
-authors: [Libo Wang, Lawrence Mudryk, Joe R. Melton, Colleen Mortimer, Jason Cole, Gesa Meyer, Paul Bartlett, and Mickaël Lalande]
+authors: [Libo Wang, Lawrence Mudryk, Joe R. Melton, Colleen Mortimer, Jason Cole, Gesa Meyer, Paul Bartlett, Mickaël Lalande]
 date: 2025-09-29T00:00:00+01:00
 doi: "https://doi.org/10.5194/gmd-18-6597-2025"
 

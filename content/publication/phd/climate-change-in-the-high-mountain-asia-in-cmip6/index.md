@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Climate change in the High Mountain Asia in CMIP6"
-authors: [Mickaël Lalande, Martin Ménégoz, Gerhard Krinner, Kathrin Naegeli, and Stefan Wunderle]
+authors: [Mickaël Lalande, Martin Ménégoz, Gerhard Krinner, Kathrin Naegeli, Stefan Wunderle]
 date: 2021-11-02T00:00:00+01:00
 doi: "https://doi.org/10.5194/esd-12-1061-2021"
 
