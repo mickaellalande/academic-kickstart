@@ -35,7 +35,7 @@ Un grand merci à Gerhard Krinner pour avoir accepté cette interview et égalem
 - Rapport du GIEC (IPCC AR6 WGI): https://www.ipcc.ch/report/ar6/wg1/
 - Atlas : https://interactive-atlas.ipcc.ch/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hcPrkgepTiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hcPrkgepTiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="responsive-embed" style="--embed-ratio: 560 / 315; --embed-max-width: 560px;"></iframe>
 
 Chaîne Science et Climat : https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q
 

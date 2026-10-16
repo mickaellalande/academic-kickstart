@@ -1,0 +1,18 @@
+
+/* Wider article and project pages on desktop */
+@media (min-width: 992px) {
+  .article-container {
+    max-width: 1000px;
+  }
+}
+
+/* Responsive Google Slides and YouTube embeds (site-specific) */
+.article-style iframe.responsive-embed {
+  display: block;
+  width: 100%;
+  max-width: var(--embed-max-width, 960px);
+  height: auto;
+  aspect-ratio: var(--embed-ratio, 16 / 9);
+  margin: 1.5rem auto;
+  border: 0;
+}

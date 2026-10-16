@@ -68,4 +68,4 @@ projects: ["PhD"]
 ---
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2c8K1TATGfqhTtCd2ymMgcnYADQ5jS66WokNzxRSQTI6JGuGlLdq3LCFXFL481o_VHgt6LCk1f--Z/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2c8K1TATGfqhTtCd2ymMgcnYADQ5jS66WokNzxRSQTI6JGuGlLdq3LCFXFL481o_VHgt6LCk1f--Z/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>

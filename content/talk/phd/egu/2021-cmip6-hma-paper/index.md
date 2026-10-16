@@ -68,4 +68,4 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_zF_HQO40vzgR-qrgQfOIdi29wsVR-5zoQRze1n4u7k6vZtMrLsOONfi0uZ3PnqxTdkL5A9nbJSwy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_zF_HQO40vzgR-qrgQfOIdi29wsVR-5zoQRze1n4u7k6vZtMrLsOONfi0uZ3PnqxTdkL5A9nbJSwy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>

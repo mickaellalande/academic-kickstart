@@ -68,7 +68,7 @@ slides: ""
 projects: ["PhD"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqs2A1JLkUKQWCmYYcrjYcbNjAyIv1osUY4LvkSmZ7FLpwEBIf0dokCE69QLhFMWCwmdHOl5d_7X3E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqs2A1JLkUKQWCmYYcrjYcbNjAyIv1osUY4LvkSmZ7FLpwEBIf0dokCE69QLhFMWCwmdHOl5d_7X3E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
 
 
 - the recording of the meeting here: https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z

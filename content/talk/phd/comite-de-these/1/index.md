@@ -71,4 +71,4 @@ projects: ["PhD"]
 - [Accès à la présentation](https://docs.google.com/presentation/d/1oNPcQq0OllJfQf1YD9ObKmF9-CGhQGgWpSPSsmh-usM/edit?usp=sharing) (commentaires possibles)
 - Présentation :
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>

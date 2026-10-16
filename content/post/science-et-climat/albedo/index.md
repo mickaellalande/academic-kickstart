@@ -30,6 +30,6 @@ projects: ["Science et Climat"]
 
 Est-ce que vous vous êtes déjà demandé pourquoi on a tendance à bronzer au ski alors que l’on est en plein hiver ? Ou encore pourquoi est-ce que l’on a plus chaud avec un t-shirt noir qu’avec un t-shirt blanc ? Et qu’est-ce que tout cela a avoir avec le réchauffement climatique ? C’est justement ce que nous allons voir ensemble dans cette première vidéo sur l’albédo !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qhd_4bt4fWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qhd_4bt4fWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="responsive-embed" style="--embed-ratio: 560 / 315; --embed-max-width: 560px;"></iframe>
 
 Chaîne Science et Climat : https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q

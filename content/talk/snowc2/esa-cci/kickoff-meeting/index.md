@@ -68,7 +68,7 @@ slides: ""
 projects: ["snowc2"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R_kopRDAdNi6UgXTfuA-QBS8n8hbCv95uci2AHsZAj9iSC7ElrJoLvwSJbL0cyKt5iU0W8tll4l0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R_kopRDAdNi6UgXTfuA-QBS8n8hbCv95uci2AHsZAj9iSC7ElrJoLvwSJbL0cyKt5iU0W8tll4l0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
 
 For more information see the project: [SnowC<sup>2</sup>]({{< relref "/project/snowc2" >}}).
 

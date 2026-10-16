@@ -68,6 +68,6 @@ slides: ""
 projects: ["snowc2"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7dGwMtDWqxGAYW-r6Jm2dO_e_tQb9wRpfuwDQakIHpobbttkf8Yh8Cfu7YmnpwvlUGHI0iNtcnDZG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2079" height="1201" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7dGwMtDWqxGAYW-r6Jm2dO_e_tQb9wRpfuwDQakIHpobbttkf8Yh8Cfu7YmnpwvlUGHI0iNtcnDZG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2079" height="1201" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 2079 / 1201; --embed-max-width: 1000px;"></iframe>
 
 

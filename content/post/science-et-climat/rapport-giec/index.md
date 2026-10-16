@@ -35,7 +35,7 @@ Compilation de vidéos TikTok d’analyse de 8 figures du résumé pour décideu
 - Facebook : https://www.facebook.com/scienceetclimat
 - Twitter : https://twitter.com/scienceetclimat
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/behuh6tbBZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/behuh6tbBZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="responsive-embed" style="--embed-ratio: 560 / 315; --embed-max-width: 560px;"></iframe>
 
 Chaîne Science et Climat : https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q
 

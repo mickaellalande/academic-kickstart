@@ -84,12 +84,12 @@ projects: ["PhD"]
 
 ## Video recording (in French)
 
-<iframe width="960" height="569" src="https://www.youtube.com/embed/QP_5yZ0lZ8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="960" height="569" src="https://www.youtube.com/embed/QP_5yZ0lZ8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
 
 
 ## Slides (mostly in English)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjo0kj_suCXqa0aQGp_WGRoVC7ZVlACJjPHmYgoc7szEDN5EoQwHM0C107Lv-JvIxRn9U8lY6oo7rC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjo0kj_suCXqa0aQGp_WGRoVC7ZVlACJjPHmYgoc7szEDN5EoQwHM0C107Lv-JvIxRn9U8lY6oo7rC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
 
 ---
 

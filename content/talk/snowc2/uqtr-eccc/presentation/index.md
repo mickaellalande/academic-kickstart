@@ -68,7 +68,7 @@ slides: ""
 projects: ["PhD", "snowc2"]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyDk4EO4nPA0OlREaB3IU_mwkKETLcrjGo1tWrwoECcdGyW8-mLWYvEKzasOKf5x4qjwqQFuzlQ-1k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyDk4EO4nPA0OlREaB3IU_mwkKETLcrjGo1tWrwoECcdGyW8-mLWYvEKzasOKf5x4qjwqQFuzlQ-1k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
 
 The same talk was given for the [ECCC](https://www.canada.ca/en/environment-climate-change.html) Toronto CRD seminar on November 9, 2023 and for the [RIVE](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137) seminar on December 13, 2023.
 

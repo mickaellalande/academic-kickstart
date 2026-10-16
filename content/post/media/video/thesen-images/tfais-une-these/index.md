@@ -32,7 +32,7 @@ projects: ["Medias", "PhD"]
 
 Quel est l'impact du réchauffement climatique en Himalayas et comment améliorer les modèles de climat sur cette région ? 🌏
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJbd81mW2PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJbd81mW2PI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="responsive-embed" style="--embed-ratio: 560 / 315; --embed-max-width: 560px;"></iframe>
 
 
 Un grand merci à Suzanne Lemaréchal pour cette interview sur mon sujet de [thèse](https://www.theses.fr/s226411) que je réalise à l'[Institut des Géosciences de l'Environnement](https://www.ige-grenoble.fr/) 🙏   

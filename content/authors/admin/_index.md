@@ -21,24 +21,23 @@ organizations:
 bio:
 
 interests:
-- Snow
-- Models
-- Mountain Areas
-- Arctic
-- General Circulation Models
-- CMIP6
-- Parameterizations
+- Snow Physics
+- Snow Modeling
+- Cryosphere
+- Land Surface Models
+- Climate Modeling
+- Mountain & Arctic Regions
 - Deep Learning
 
 
 education:
   courses:
-  - course: Postdoctoral Researcher
-    institution: Takuvik Joint International Laboratory (Université Laval & CNRS-INSU; Quebec City, Canada)
-    year: 2026-2027
-  - course: ESA CCI Postdoc Fellowship
-    institution: UQTR / RIVE / GLACIOLAB (Trois-Rivières, Canada)
-    year: 2023-2025
+  # - course: Postdoctoral Researcher
+  #   institution: Takuvik Joint International Laboratory (Université Laval & CNRS-INSU; Quebec City, Canada)
+  #   year: 2026-2027
+  # - course: ESA CCI Postdoc Fellowship
+  #   institution: UQTR / RIVE / GLACIOLAB (Trois-Rivières, Canada)
+  #   year: 2023-2025
   - course: PhD in Earth and Environmental Sciences
     institution: Institute of Environmental Geosciences (Grenoble, France)
     year: 2019-2022
