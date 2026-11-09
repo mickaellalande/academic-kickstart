@@ -30,3 +30,10 @@
 .btn-links {
   flex-wrap: wrap;
 }
+
+/* Raw long strings in listing excerpts wrap too (tag pages, cards) */
+.card-text,
+.stream-item,
+.pub-abstract {
+  overflow-wrap: break-word;
+}
