@@ -16,3 +16,17 @@
   margin: 1.5rem auto;
   border: 0;
 }
+
+/* Long links wrap instead of stretching the page (mobile overflow guard) */
+.article-style a,
+.pub-abstract a,
+.card-text a,
+.stream-item a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Button link rows wrap on narrow screens */
+.btn-links {
+  flex-wrap: wrap;
+}

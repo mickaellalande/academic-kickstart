@@ -73,4 +73,4 @@ projects: ["PhD"]
 
 ---
 
-Link: https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html
+Link: [EGU22-615 on Copernicus](https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html)
