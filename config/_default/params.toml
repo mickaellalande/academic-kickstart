@@ -41,7 +41,12 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Mickaël Lalande"
+
+# Short brand shown in the navigation bar.
+# The full site title (config.toml) is used for page titles and search engines;
+# the navbar override in layouts/partials/navbar.html displays this short name instead.
+navbar_title = "Mickaël Lalande"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -87,11 +92,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "UQTR / RIVE / GLACIOLAB<br> 3351 Bd des Forges", city = "Trois-Rivières (Canada)", region = "Québec", postcode = "QC, G8Z 4M3", country = "Canada", country_code = "CA"}
-address = {street = "Pavillon Alexandre-Vachon (VCH) - Université Laval<br> 1045 Av. de la Médecine, Québec, QC G1V 0A6 (Canada)"}
+address = {street = "Institut nordique du Québec (CSINQ), Bureau 4135-02<br> 1030 avenue des Sciences-de-la-Vie, Québec, QC G1V 0A6 (Canada)"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.7802883", longitude = "-71.2767507"}
+coordinates = {latitude = "46.778794", longitude = "-71.280007"}
 
 # Directions for visitors to locate you.
 directions = "Takuvik International Laboratory <br> Université Laval and CNRS"
