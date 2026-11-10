@@ -2,23 +2,23 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Postdoc Coffee: Arctic snow is thin — so why does it matter so much?"
-event: "Café des postdocs (Postdoc Coffee) — Université Laval (FESP)"
-event_url: ""
-location: "Université Laval"
+event: "Postdocs - Café scientifique de novembre (FESP)"
+event_url: "https://www.fesp.ulaval.ca/evenements/postdocs-cafe-scientifique-de-novembre"
+location: "Café Fou Aeliés — Pavillon Alphonse-Desjardins, Université Laval"
 address:
-  street: 
+  street: 2325, rue de l'Université, local 1550
   city: Québec
   region: Québec
-  postcode: 
+  postcode: G1V 0A6
   country: Canada
-summary: 
+summary: ""
 abstract: "How a few tens of centimetres of snow can control soil temperatures, permafrost, carbon fluxes, and challenge climate models."
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2026-11-13T15:00:00-05:00
-date_end: 2026-11-13T15:15:00-05:00
+date_end: 2026-11-13T16:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -28,7 +28,7 @@ authors: ["admin"]
 tags: ["Snow", "Model", "Arctic"]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -47,7 +47,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "talk/takuvik/postdoc-coffee/2026/Talk_PostdocCoffee_ArcSnow_LALANDE.pdf"
+url_slides: "talk/takuvik/postdoc-coffee/2026/Talk_PostdocCoffee_ArcSnow_LALANDE_20261113.pdf"
 
 url_code: ""
 url_pdf: ""
@@ -69,3 +69,6 @@ projects: []
 ---
 
 <iframe src="https://docs.google.com/presentation/d/1odjDu5l_mSEiUm1Jieaz3G-fZVzEB3wCYG6qWdIJCdQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" class="responsive-embed" style="--embed-ratio: 960 / 569; --embed-max-width: 960px;"></iframe>
+
+Part of the FESP Postdoc Scientific Café: four postdocs each give a 5-minute talk followed by a 10-minute discussion. The time shown above is the full duration of the event — my own presentation lasts 5 minutes.
+
